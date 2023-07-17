@@ -1,12 +1,17 @@
 # Hostel_Management_System
 End-to-End Software Development Desktop application 
-The Hostel Management System is a Java-based project that utilizes Java Swing for the frontend and MySQL as the backend database. The project is developed and run on the NetBeans IDE.
 
-Key Features:
+The Hostel Management System is a project specifically designed for our college hostel. It aims to eliminate the traditional pen and paper techniques used for managing hostel operations. This system offers an efficient and streamlined approach to manage hostel-related tasks. Key features of the Hostel Management System include:
 
-**Frontend:** Developed using Java Swing for a user-friendly interface.
-**Backend:** Utilizes MySQL as the database for efficient data storage and retrieval.
-**Connector:** JDBC connector is used to establish a connection between the Java application and the MySQL database.
+- **Real-time fee payment updation:** The system ensures that fee payments are updated in real-time, providing accurate and up-to-date records of student payments.
+
+- **Java Swing for front-end:** The user interface of the system is developed using Java Swing, a powerful GUI toolkit for Java applications. This allows for a visually appealing and user-friendly interface.
+
+- **MySQL as the back-end database:** The project utilizes MySQL as the database management system to store and manage hostel-related data, providing a reliable and robust solution for data storage.
+
+- **JDBC connector:** To establish a connection between the Java application and the MySQL database, JDBC (Java Database Connectivity) connector is used. It enables seamless interaction between the front-end application and the back-end database.
+
+- **Developed using NetBeans:** The code for the Hostel Management System is developed and executed using NetBeans, an integrated development environment (IDE) for Java applications. NetBeans provides a convenient environment for coding, debugging, and testing the project.
 
 ---
 
